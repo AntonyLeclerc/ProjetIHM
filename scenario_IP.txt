@@ -1,0 +1,8 @@
+Interaction Points :
+	-> 1 point intéressant par interview = 1 Interaction Point
+
+Scenario :
+	-> Synthèse des interviews
+
+Diagramme d'affinité :
+	Point commun entre les interviews. Relier.

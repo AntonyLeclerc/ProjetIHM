@@ -48,3 +48,7 @@ AnoInfo :
 	Côté leadership
 	Borne d'arcade
 
+===
+
+Persona extreme :
+	-> Qqn d'extrême, sans tomber dans la caricature.
